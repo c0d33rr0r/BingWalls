@@ -18,3 +18,9 @@ usage: python daily.py
     * `feh` - application that can set wallpaper
 
 Modified Just Downloads and sets the wallpaper using feh. Stores it in Pictures/Bing
+
+Please donate for the time and effort.
+
+![CashAppDonations](https://github.com/user-attachments/assets/d11042b2-7ef8-4eef-8db2-49d0c000e0cf)
+
+C0d33rr0r@outlook.com
