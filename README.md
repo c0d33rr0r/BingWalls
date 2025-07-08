@@ -5,7 +5,6 @@ I3BingWalls Mod from redit  post
 
 A script to set the daily bing image as the wallpaper.
 
-```
 usage: python daily.py
 
 ## Dependencies
@@ -18,6 +17,7 @@ usage: python daily.py
     * `feh` - application that can set wallpaper
 
 Modified Just Downloads and sets the wallpaper using feh. Stores it in Pictures/Bing
+
 
 Please donate for the time and effort.
 
