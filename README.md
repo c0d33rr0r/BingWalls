@@ -6,7 +6,7 @@ I3BingWalls Mod from redit  post
 A script to set the daily bing image as the wallpaper.
 
 ```
-usage: daily.py
+usage: python daily.py
 
 ## Dependencies
 
